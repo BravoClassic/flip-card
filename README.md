@@ -4,7 +4,7 @@ Submitted by: **Gerald Akorli**
 
 This web app: **This flashcard game enables a person to learn about countries and their capitals quickly**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -41,6 +41,8 @@ GIF created with [Kap](https://getkap.co/) for macOS
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The main challenge I faces was creating the flip animation. I had to do a lot of research to get it to work. I also had to do a lot of research to get the cards to flip back to the front when the next button is clicked.
 
 ## License
 
