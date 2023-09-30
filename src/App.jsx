@@ -15,6 +15,7 @@ function App() {
     <>
      <h1>FlashCards - Learning Geography </h1>
      <p>Learn countries and their capitals through these flash cards</p>
+     <p>Number of Contients: {keys.length} | Current Continent: {currentDeck} | Number of Cards for each Contient: {data[currentDeck].length}</p>
      <FlashCards  data={data[currentDeck][currentCard]} background={colors[currentDeck]} currentDeck={currentDeck} currentCard={currentCard} />
      <button onClick={changeDeck}>Next</button>
     </>
