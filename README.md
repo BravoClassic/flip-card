@@ -20,7 +20,13 @@ The following **optional** features are implemented:
 
 - [x] Cards contains images in addition to or in place of text
 - [x] Cards have different visual styles such as color based on their category
-  - [x] *visual style implemented*
+  - [x] "Europe": "#8A2BE2",
+  - [x] "Asia": "#7FFF00",  
+  - [x] "Africa": "#DC143C",
+  - [x] "North America": "#6495ED",
+  - [x] "South America": "#FF8C00",
+  - [x] "Oceania": "#FF1493"
+  
 
 The following **additional** features are implemented:
 
