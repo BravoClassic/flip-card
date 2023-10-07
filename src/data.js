@@ -1,4 +1,4 @@
-const data ={
+const d ={
   "Europe": [
     {"country": "France", "capital": "Paris", "flag":"../assets/france-flag.svg"},
     {"country": "Germany", "capital": "Berlin", "flag":"../assets/germany-flag.svg"},
@@ -88,4 +88,4 @@ let colors =
   "South America": "#FF8C00",
   "Oceania": "#FF1493"
 }
-  export {data, colors};
+  export {d, colors};
