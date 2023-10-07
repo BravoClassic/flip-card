@@ -22,7 +22,7 @@ function App() {
   };
   const nextCard = () => {
     setCurrentCard((prev) => prev + 1);
-    if (currentCard >= data[currentDeck].length - 1) {
+    if (currentCard >= data.length - 1) {
       return;
     }
   };
